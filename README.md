@@ -1,7 +1,7 @@
 # Triangle
 Hell Triangle - Challenge
 
-1) Pré-requisito para execução prod.
+1) Pré-requisito para execução homologação[homol].
 
    	Apache-maven instalado e configurado.
    	Java versão 1.8 instalado e configurado.
@@ -13,9 +13,9 @@ Hell Triangle - Challenge
    		a) Plugins.
    		b) lombox botão install.
 
-1) Pré-requisito para execução prod.
+1) Pré-requisito para execução produção [prod].
 
-   	Mesmo procedimento do passoe, e instalar o docker e docker-compose. No link abaixo tem o procedimento.
+   	Mesmo procedimento do passo 1, depois instalar o docker e docker-compose. No link abaixo tem o procedimento.
    	 (https://docs.docker.com/compose/install/).
 
 2) Executar o projeto em produção
